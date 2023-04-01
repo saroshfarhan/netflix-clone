@@ -46,7 +46,7 @@ const Navbar = () => {
           <NavbarItem label="Home" />
           <NavbarItem label="Series" />
           <NavbarItem label="Films" />
-          <NavbarItem label="New and Polular" />
+          <NavbarItem label="New and Popular" />
           <NavbarItem label="My List" />
           <NavbarItem label="Browse by languages" />
         </div>
