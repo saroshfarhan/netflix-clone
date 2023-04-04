@@ -6,9 +6,9 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Netflix - Clone</title>
+        <title>FullStack</title>
         <link href="/favicon.ico" rel="icon" type="image/x-icon" />
-        <meta property="og:title" content="Netflix-Clone" key="title" />
+        <meta property="og:title" content="fullstack app" key="title" />
       </Head>
       <Component {...pageProps} />
     </>
