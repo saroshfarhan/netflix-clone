@@ -6,7 +6,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Netflix</title>
+        <title>Netflix - Clone</title>
         <link href="/favicon.ico" rel="icon" type="image/x-icon" />
         <meta property="og:title" content="Netflix-Clone" key="title" />
       </Head>
